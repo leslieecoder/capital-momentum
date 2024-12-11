@@ -1,3 +1,9 @@
+## Do you want a cool landing page like this?
+
+<img width="1666" alt="Screenshot 2024-12-11 at 4 35 17 PM" src="https://github.com/user-attachments/assets/4ad5b940-aa4b-4dc6-8b0b-336c6af157c3" />
+
+Well let me do it for you :)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
